@@ -34,10 +34,6 @@ Users can ask queries related to universities, admission processes, or visa guid
 Fully responsive across all devices (mobile, tablet, and desktop).
 Adaptive design for seamless interaction.
 
-## Deployment & Hosting :
-Live on Netlif ensuring easy and instant access.
-Continuous deployment for automatic updates.
-
 ##  Tech Stack Used : 
 ### Frontend: HTML, CSS, JavaScript.
 
