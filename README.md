@@ -34,6 +34,10 @@ Users can ask queries related to universities, admission processes, or visa guid
 Fully responsive across all devices (mobile, tablet, and desktop).
 Adaptive design for seamless interaction.
 
+
+##  Screenshots:
+I have attached the screenshots below for reference.
+
 ![Alt Text](image%201.png)
 
 
