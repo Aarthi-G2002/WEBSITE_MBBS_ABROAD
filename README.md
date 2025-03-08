@@ -39,7 +39,8 @@ Adaptive design for seamless interaction.
 
 
 ##  Screenshots:
-I have attached the screenshots below for reference.
+
+### I have attached the screenshots below for reference.
 
 ![Alt Text](image%201.png)
 
