@@ -1,5 +1,6 @@
  # Study MBBS Abroad 
- 
+
+ # Live Link : https://fascinating-bonbon-aaa4b3.netlify.app/
   ## About the Project
 
 ###  This project is a comprehensive platform for students aspiring to study MBBS abroad. It provides detailed information about various universities, admission requirements, and benefits of studying overseas. The website ensures a seamless user experience with a clean and modern UI. It is optimized for fast loading and smooth navigation across devices. The content is structured to help users make informed decisions easily. A contact form is integrated for inquiries and assistance. Mobile responsiveness ensures accessibility on all screen sizes.
